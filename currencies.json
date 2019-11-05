@@ -14,6 +14,62 @@
 		"reserves_src": ["0x57f8160e1c59D16C01BbE181fD94db4E56b60495"],
 		"reserves_dest": ["0x57f8160e1c59D16C01BbE181fD94db4E56b60495"]
 	}, {
+		"symbol": "GST2",
+		"name": "GasToken",
+		"address": "0x0000000000b3f879cb30fe243b4dfee438691c04",
+		"decimals": 2,
+		"id": "0x0000000000b3f879cb30fe243b4dfee438691c04",
+		"reserves_src": ["0x57f8160e1c59D16C01BbE181fD94db4E56b60495"],
+		"reserves_dest": ["0x57f8160e1c59D16C01BbE181fD94db4E56b60495"]
+	}, {
+		"symbol": "gDAI",
+		"name": "Gasless DAI",
+		"address": "0xf45c0a404aac29a89f80e0aa16cd03918c7b4384",
+		"decimals": 18,
+		"id": "0xf45c0a404aac29a89f80e0aa16cd03918c7b4384",
+		"reserves_src": ["0x63825c174ab367968EC60f061753D3bbD36A0D8F"],
+		"reserves_dest": ["0x63825c174ab367968EC60f061753D3bbD36A0D8F"]
+	}, {
+		"symbol": "ANT",
+		"name": "Aragon",
+		"address": "0x960b236A07cf122663c4303350609A66A7B288C0",
+		"decimals": 18,
+		"id": "0x960b236A07cf122663c4303350609A66A7B288C0",
+		"reserves_src": ["0x63825c174ab367968EC60f061753D3bbD36A0D8F"],
+		"reserves_dest": ["0x63825c174ab367968EC60f061753D3bbD36A0D8F"]
+	}, {
+		"symbol": "DNT",
+		"name": "district0x",
+		"address": "0x0abdace70d3790235af448c88547603b945604ea",
+		"decimals": 18,
+		"id": "0x0abdace70d3790235af448c88547603b945604ea",
+		"reserves_src": ["0x63825c174ab367968EC60f061753D3bbD36A0D8F"],
+		"reserves_dest": ["0x63825c174ab367968EC60f061753D3bbD36A0D8F"]
+	}, {
+		"symbol": "BNB",
+		"name": "Binance Coin",
+		"address": "0xB8c77482e45F1F44dE1745F52C74426C631bDD52",
+		"decimals": 18,
+		"id": "0xB8c77482e45F1F44dE1745F52C74426C631bDD52",
+		"reserves_src": ["0x63825c174ab367968EC60f061753D3bbD36A0D8F"],
+		"reserves_dest": ["0x63825c174ab367968EC60f061753D3bbD36A0D8F"]
+	}, {
+		"symbol": "LEO",
+		"name": "Bitfinex LEO Token",
+		"address": "0x2af5d2ad76741191d15dfe7bf6ac92d4bd912ca3",
+		"decimals": 18,
+		"id": "0x2af5d2ad76741191d15dfe7bf6ac92d4bd912ca3",
+		"reserves_src": ["0x63825c174ab367968EC60f061753D3bbD36A0D8F"],
+		"reserves_dest": ["0x63825c174ab367968EC60f061753D3bbD36A0D8F"]
+	}, {
+		"symbol": "NEC",
+		"name": "Ethfinex Nectar Token",
+		"address": "0xcc80c051057b774cd75067dc48f8987c4eb97a5e",
+		"decimals": 18,
+		"id": "0xcc80c051057b774cd75067dc48f8987c4eb97a5e",
+		"reserves_src": ["0x63825c174ab367968EC60f061753D3bbD36A0D8F"],
+		"reserves_dest": ["0x63825c174ab367968EC60f061753D3bbD36A0D8F"]
+	}, {
 		"symbol": "KNC",
 		"name": "KyberNetwork",
 		"address": "0xdd974d5c2e2928dea5f71b9825b8b646686bd200",
@@ -310,6 +366,14 @@
 		"reserves_src": ["0x04A487aFd662c4F9DEAcC07A7B10cFb686B682A4", "0x5D154c145Db2ca90B8aB5e8Fe3E716AfA4AB7Ff0", "0xb45C8956a080d336934cEE52A35D4dbABF025b6F"],
 		"reserves_dest": ["0x04A487aFd662c4F9DEAcC07A7B10cFb686B682A4", "0x5D154c145Db2ca90B8aB5e8Fe3E716AfA4AB7Ff0", "0xb45C8956a080d336934cEE52A35D4dbABF025b6F"]
 	}, {
+		"symbol": "DGD",
+		"name": "DigixDAO token",
+		"address": "0xe0b7927c4af23765cb51314a0e0521a9645f0e2a",
+		"decimals": 9,
+		"id": "0xe0b7927c4af23765cb51314a0e0521a9645f0e2a",
+		"reserves_src": ["0x04A487aFd662c4F9DEAcC07A7B10cFb686B682A4", "0x5D154c145Db2ca90B8aB5e8Fe3E716AfA4AB7Ff0", "0xb45C8956a080d336934cEE52A35D4dbABF025b6F"],
+		"reserves_dest": ["0x04A487aFd662c4F9DEAcC07A7B10cFb686B682A4", "0x5D154c145Db2ca90B8aB5e8Fe3E716AfA4AB7Ff0", "0xb45C8956a080d336934cEE52A35D4dbABF025b6F"]
+	}, {
 		"symbol": "EKO",
 		"name": "EchoLink",
 		"address": "0xa6a840e50bcaa50da017b91a0d86b8b2d41156ee",
@@ -387,6 +451,14 @@
 		"address": "0xb63b606ac810a52cca15e44bb630fd42d8d1d83d",
 		"decimals": 8,
 		"id": "0xb63b606ac810a52cca15e44bb630fd42d8d1d83d",
+		"reserves_src": ["0x63825c174ab367968EC60f061753D3bbD36A0D8F"],
+		"reserves_dest": ["0x63825c174ab367968EC60f061753D3bbD36A0D8F"]
+	}, {
+		"symbol": "NPXS",
+		"name": "Pundi X Token",
+		"address": "0xa15c7ebe1f07caf6bff097d8a589fb8ac49ae5b3",
+		"decimals": 18,
+		"id": "0xa15c7ebe1f07caf6bff097d8a589fb8ac49ae5b3",
 		"reserves_src": ["0x63825c174ab367968EC60f061753D3bbD36A0D8F"],
 		"reserves_dest": ["0x63825c174ab367968EC60f061753D3bbD36A0D8F"]
 	}, {
@@ -507,6 +579,14 @@
 		"address": "0xaaaf91d9b90df800df4f55c205fd6989c977e73a",
 		"decimals": 8,
 		"id": "0xaaaf91d9b90df800df4f55c205fd6989c977e73a",
+		"reserves_src": ["0x3480E12B6C2438e02319e34b4c23770679169190"],
+		"reserves_dest": ["0x3480E12B6C2438e02319e34b4c23770679169190"]
+	}, {
+		"symbol": "MVT",
+		"name": "The Movement",
+		"address": "0x3d46454212c61ecb7b31248047fa033120b88668",
+		"decimals": 18,
+		"id": "0x3d46454212c61ecb7b31248047fa033120b88668",
 		"reserves_src": ["0x3480E12B6C2438e02319e34b4c23770679169190"],
 		"reserves_dest": ["0x3480E12B6C2438e02319e34b4c23770679169190"]
 	}],
